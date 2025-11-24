@@ -74,7 +74,7 @@ The receipt contains:
 ```
 🎬 Python Cinema – Ticket Receipt 🎬
 ---------------------------------------------------
-Customer Name: Humaid
+Customer Name: Shrishty
 Order ID: ORD58291
 Date: 2025-11-24 11:45:21
 
