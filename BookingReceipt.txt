@@ -1,0 +1,14 @@
+        🎬 Python Cinema – Ticket Receipt 🎬
+---------------------------------------------------
+Customer Name: Shrishty
+Order ID: ORD67735
+Date: 2025-11-24 22:49:19.133467
+
+Booked Seats:
+  - H1 : Rs 400
+  - H2 : Rs 400
+  - H3 : Rs 400
+
+TOTAL AMOUNT: Rs 1200
+---------------------------------------------------
+Thank you for booking with Python Cinema! 🍿
